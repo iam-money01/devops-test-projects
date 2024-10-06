@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springbootmongo
+  data:
+    mongodb:
+      host: ssmongodb
+      port: 27017
+
+
